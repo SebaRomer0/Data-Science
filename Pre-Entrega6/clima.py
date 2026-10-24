@@ -8,7 +8,7 @@ import duckdb
 URL = "https://raw.githubusercontent.com/vega/vega-datasets/main/data/weather.csv"
 
 # Aca conecto con un dataset local
-RUTA = Path(__file__).parent / "datos" / "clima.csv"
+#RUTA = Path(__file__).parent / "datos" / "clima.csv"
 
 #Enlazo con la base de datos DuckDB en memoria y no se crea un archivo físico en disco.
 con = duckdb.connect() 
@@ -28,7 +28,7 @@ def ejecutar(titulo, sql):
 
 #La vista apunta directo al CSV remoto (no se importa a ninguna tabla)
 #Tambien agrego un cambio en URL para que apunte al dataset local si se desea usarlo en lugar del remoto.
-#Por ejemplo camviando la línea URL = RUTA
+#Por ejemplo camviando la línea URL = RUTA . Y descomentando la línea de RUTA. Esto permite usar el mismo código para ambos casos.
 con.sql(f"CREATE VIEW clima_raw AS SELECT * FROM read_csv_auto('{URL}')")
 ejecutar("Estructura del dataset", "DESCRIBE clima_raw")
 

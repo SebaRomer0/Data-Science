@@ -71,10 +71,13 @@ EJERCICIOS = {
             SELECT
                 u.usuario_id,
                 u.nombre,
-                DATE_DIFF(
-                    'day',
-                    MAX(p.fecha),
-                    DATE '2024-03-31'
+                COALESCE(
+                    DATE_DIFF(
+                        'day',
+                        MAX(p.fecha),
+                        DATE '2024-03-31'
+                    ),
+                    999
                 ) AS recency,
                 COUNT(DISTINCT p.pedido_id) AS frequency,
                 COALESCE(SUM(p.monto), 0) AS monetary

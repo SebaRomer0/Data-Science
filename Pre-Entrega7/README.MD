@@ -27,13 +27,11 @@ Se trabaja con datos de usuarios y pedidos para calcular indicadores de comporta
 ```text
 Pre-Entrega7/
 ├── main.py
-├── features.sql
 ├── requirements.txt
 └── README.md
 ```
 
-- `maines.py`: permite seleccionar y ejecutar individualmente cada ejercicio.
-- `features.sql`: contiene las consultas SQL documentadas del trabajo.
+- `main.py`: permite seleccionar y ejecutar individualmente cada ejercicio.
 - `requirements.txt`: especifica las dependencias de Python.
 - `README.md`: describe el proyecto y sus instrucciones de uso.
 
@@ -95,7 +93,7 @@ python -m pip install -r requirements.txt
 Desde la terminal, ingresar a la carpeta del proyecto y ejecutar:
 
 ```bash
-python maines.py
+python main.py
 ```
 
 El programa presenta un menú para seleccionar:

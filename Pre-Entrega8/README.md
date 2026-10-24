@@ -94,12 +94,9 @@ utiliza exclusivamente bibliotecas incluidas en Python.
 ### Clonar el repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
-cd NOMBRE_DEL_REPOSITORIO
+git clone https://github.com/SebaRomer0/Data-Science
+cd Pre-Entrega8
 ```
-
-Reemplazar los valores anteriores por la URL y el nombre reales
-del repositorio.
 
 ### Ejecutar el proceso
 
