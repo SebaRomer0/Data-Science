@@ -1,0 +1,7 @@
+{
+  "MAE_usd": 8780.8,
+  "RMSE_usd": 12526.34,
+  "R2": 0.919,
+  "filas_train": 1200,
+  "filas_test": 300
+}
