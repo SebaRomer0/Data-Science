@@ -1,2 +1,23 @@
+# archivos del sistema
 .DS_Store
 
+# practica de Python
+Practica
+
+# Entornos virtuales de Python
+.venv/
+venv/
+
+# Archivos generados por Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Variables de entorno y secretos
+.env
+
+# Base de datos generada
+*.db
+*.sqlite
+*.sqlite3
