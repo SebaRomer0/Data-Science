@@ -1,0 +1,206 @@
+ID_Pedido,Fecha,Categoria,Producto,Provincia,Canal,Unidades,Precio_Unitario,Ventas,Segmento_IQR_global,Segmento_IQR_categoria,Limite_IQR_categoria_inferior,Limite_IQR_categoria_superior
+P001355,2026-03-20,Electrónica,Parlante Bluetooth,Córdoba,Tienda,3,420000,1260000,Atípico superior,Atípico superior,-304750.0,981250.0
+P000511,2025-12-02,Electrónica,Smart TV,Buenos Aires,Tienda,3,419000,1257000,Atípico superior,Atípico superior,-304750.0,981250.0
+P001077,2026-02-08,Electrónica,Tablet,Neuquén,Tienda,3,418500,1255500,Atípico superior,Atípico superior,-304750.0,981250.0
+P000411,2025-11-21,Electrónica,Smartwatch,Tucumán,Online,3,414500,1243500,Atípico superior,Atípico superior,-304750.0,981250.0
+P001014,2026-01-29,Electrónica,Smartwatch,Entre Ríos,Tienda,3,411500,1234500,Atípico superior,Atípico superior,-304750.0,981250.0
+P002102,2026-06-23,Electrónica,Auriculares,Buenos Aires,Tienda,3,403000,1209000,Atípico superior,Atípico superior,-304750.0,981250.0
+P000127,2025-10-19,Electrónica,Parlante Bluetooth,Tucumán,Online,3,399500,1198500,Atípico superior,Atípico superior,-304750.0,981250.0
+P001093,2026-02-10,Electrónica,Tablet,Entre Ríos,Tienda,3,399500,1198500,Atípico superior,Atípico superior,-304750.0,981250.0
+P000689,2025-12-19,Electrónica,Smart TV,Entre Ríos,Online,3,399500,1198500,Atípico superior,Atípico superior,-304750.0,981250.0
+P000811,2026-01-01,Electrónica,Smartwatch,Santa Fe,Online,3,396000,1188000,Atípico superior,Atípico superior,-304750.0,981250.0
+P000769,2025-12-28,Electrónica,Smartwatch,Tucumán,Online,3,392000,1176000,Atípico superior,Atípico superior,-304750.0,981250.0
+P001302,2026-03-13,Electrónica,Parlante Bluetooth,Buenos Aires,Online,3,391500,1174500,Atípico superior,Atípico superior,-304750.0,981250.0
+P001122,2026-02-14,Electrónica,Tablet,Santa Fe,Online,3,389500,1168500,Atípico superior,Atípico superior,-304750.0,981250.0
+P002725,2026-09-04,Electrónica,Smartwatch,Córdoba,Online,3,388500,1165500,Atípico superior,Atípico superior,-304750.0,981250.0
+P000337,2025-11-14,Electrónica,Parlante Bluetooth,Santa Fe,Online,3,386500,1159500,Atípico superior,Atípico superior,-304750.0,981250.0
+P001961,2026-06-04,Electrónica,Tablet,Córdoba,Online,3,383000,1149000,Atípico superior,Atípico superior,-304750.0,981250.0
+P000150,2025-10-23,Electrónica,Auriculares,Buenos Aires,Tienda,3,382500,1147500,Atípico superior,Atípico superior,-304750.0,981250.0
+P001261,2026-03-06,Electrónica,Smart TV,Córdoba,Online,3,381000,1143000,Atípico superior,Atípico superior,-304750.0,981250.0
+P000791,2025-12-30,Electrónica,Tablet,Buenos Aires,Tienda,3,380000,1140000,Atípico superior,Atípico superior,-304750.0,981250.0
+P002665,2026-08-29,Electrónica,Parlante Bluetooth,Buenos Aires,Online,3,379500,1138500,Atípico superior,Atípico superior,-304750.0,981250.0
+P002784,2026-09-11,Electrónica,Auriculares,Buenos Aires,Online,3,378500,1135500,Atípico superior,Atípico superior,-304750.0,981250.0
+P000875,2026-01-10,Electrónica,Parlante Bluetooth,Santa Fe,Online,3,378500,1135500,Atípico superior,Atípico superior,-304750.0,981250.0
+P000160,2025-10-25,Electrónica,Smart TV,Buenos Aires,Online,3,375500,1126500,Atípico superior,Atípico superior,-304750.0,981250.0
+P002431,2026-08-02,Electrónica,Auriculares,Buenos Aires,Online,3,374000,1122000,Atípico superior,Atípico superior,-304750.0,981250.0
+P001196,2026-02-24,Electrónica,Smart TV,Tucumán,Online,3,373500,1120500,Atípico superior,Atípico superior,-304750.0,981250.0
+P000792,2025-12-30,Electrónica,Smartwatch,Buenos Aires,Online,3,370500,1111500,Atípico superior,Atípico superior,-304750.0,981250.0
+P002451,2026-08-05,Electrónica,Parlante Bluetooth,Buenos Aires,Tienda,3,369000,1107000,Atípico superior,Atípico superior,-304750.0,981250.0
+P000708,2025-12-21,Electrónica,Smart TV,Tucumán,Online,3,368500,1105500,Atípico superior,Atípico superior,-304750.0,981250.0
+P000179,2025-10-28,Electrónica,Parlante Bluetooth,Buenos Aires,Online,3,368500,1105500,Atípico superior,Atípico superior,-304750.0,981250.0
+P001342,2026-03-18,Electrónica,Smart TV,Córdoba,Tienda,3,364000,1092000,Atípico superior,Atípico superior,-304750.0,981250.0
+P000996,2026-01-26,Electrónica,Smartwatch,Santa Fe,Tienda,3,360000,1080000,Atípico superior,Atípico superior,-304750.0,981250.0
+P002490,2026-08-09,Electrónica,Auriculares,Buenos Aires,Online,3,355000,1065000,Atípico superior,Atípico superior,-304750.0,981250.0
+P001051,2026-02-04,Electrónica,Tablet,Córdoba,Tienda,3,354500,1063500,Atípico superior,Atípico superior,-304750.0,981250.0
+P001799,2026-05-15,Electrónica,Parlante Bluetooth,Buenos Aires,Tienda,3,354000,1062000,Atípico superior,Atípico superior,-304750.0,981250.0
+P002619,2026-08-24,Electrónica,Smart TV,Salta,Online,3,354000,1062000,Atípico superior,Atípico superior,-304750.0,981250.0
+P001201,2026-02-25,Electrónica,Smartwatch,Buenos Aires,Tienda,3,345000,1035000,Atípico superior,Atípico superior,-304750.0,981250.0
+P000054,2025-10-08,Electrónica,Parlante Bluetooth,Tucumán,Online,3,343000,1029000,Atípico superior,Atípico superior,-304750.0,981250.0
+P001969,2026-06-05,Electrónica,Parlante Bluetooth,Córdoba,Tienda,3,342500,1027500,Atípico superior,Atípico superior,-304750.0,981250.0
+P001288,2026-03-11,Electrónica,Smart TV,Mendoza,Tienda,3,342500,1027500,Atípico superior,Atípico superior,-304750.0,981250.0
+P002415,2026-07-31,Electrónica,Parlante Bluetooth,Mendoza,Online,3,337500,1012500,Atípico superior,Atípico superior,-304750.0,981250.0
+P002395,2026-07-28,Electrónica,Auriculares,Neuquén,Online,3,337000,1011000,Atípico superior,Atípico superior,-304750.0,981250.0
+P001519,2026-04-09,Electrónica,Smartwatch,Entre Ríos,Tienda,3,336000,1008000,Atípico superior,Atípico superior,-304750.0,981250.0
+P002308,2026-07-17,Electrónica,Tablet,Buenos Aires,Tienda,3,330000,990000,Atípico superior,Atípico superior,-304750.0,981250.0
+P001836,2026-05-20,Electrónica,Smart TV,Neuquén,Tienda,3,329000,987000,Atípico superior,Atípico superior,-304750.0,981250.0
+P000140,2025-10-21,Electrónica,Auriculares,Salta,Online,3,326500,979500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002452,2026-08-05,Electrónica,Smartwatch,Mendoza,Tienda,3,321000,963000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002938,2026-09-29,Electrónica,Smartwatch,Entre Ríos,Tienda,3,312000,936000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000035,2025-10-06,Electrónica,Parlante Bluetooth,Neuquén,Tienda,3,301500,904500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001281,2026-03-09,Electrónica,Parlante Bluetooth,Buenos Aires,Online,3,294500,883500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001025,2026-01-31,Electrónica,Parlante Bluetooth,Santa Fe,Online,3,287500,862500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001772,2026-05-11,Electrónica,Smart TV,Buenos Aires,Tienda,3,285500,856500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001615,2026-04-21,Electrónica,Auriculares,Santa Fe,Online,3,281500,844500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002631,2026-08-25,Electrónica,Auriculares,Tucumán,Online,2,418500,837000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000420,2025-11-22,Electrónica,Auriculares,Buenos Aires,Tienda,2,417000,834000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001343,2026-03-18,Electrónica,Smart TV,Córdoba,Online,2,416500,833000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002160,2026-06-30,Electrónica,Auriculares,Buenos Aires,Online,2,416500,833000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000868,2026-01-09,Electrónica,Tablet,Buenos Aires,Tienda,2,416000,832000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002715,2026-09-03,Electrónica,Parlante Bluetooth,Córdoba,Online,2,415500,831000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002113,2026-06-24,Electrónica,Parlante Bluetooth,Salta,Online,2,414500,829000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001063,2026-02-06,Electrónica,Smart TV,Buenos Aires,Online,3,276000,828000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001227,2026-02-28,Electrónica,Smartwatch,Salta,Tienda,2,411000,822000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002889,2026-09-22,Electrónica,Tablet,Córdoba,Tienda,2,409000,818000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000282,2025-11-09,Electrónica,Tablet,Santa Fe,Tienda,2,407000,814000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002893,2026-09-23,Electrónica,Auriculares,Santa Fe,Tienda,2,406000,812000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002301,2026-07-16,Electrónica,Parlante Bluetooth,Santa Fe,Online,2,406000,812000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002916,2026-09-26,Electrónica,Smartwatch,Santa Fe,Tienda,2,406000,812000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000204,2025-11-01,Electrónica,Smart TV,Buenos Aires,Tienda,2,403500,807000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002152,2026-06-29,Electrónica,Smartwatch,Tucumán,Tienda,2,401500,803000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001565,2026-04-14,Electrónica,Tablet,Santa Fe,Online,2,401000,802000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001137,2026-02-16,Electrónica,Parlante Bluetooth,Tucumán,Online,2,401000,802000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002553,2026-08-16,Electrónica,Smart TV,Buenos Aires,Online,3,266500,799500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002285,2026-07-14,Electrónica,Parlante Bluetooth,Buenos Aires,Online,3,266500,799500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001243,2026-03-03,Electrónica,Parlante Bluetooth,Mendoza,Online,2,399000,798000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001678,2026-04-30,Electrónica,Tablet,Tucumán,Online,2,396500,793000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002652,2026-08-28,Electrónica,Tablet,Buenos Aires,Online,2,395000,790000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002950,2026-09-30,Electrónica,Smart TV,Buenos Aires,Tienda,2,394500,789000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001636,2026-04-24,Electrónica,Smartwatch,Buenos Aires,Tienda,2,393500,787000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000688,2025-12-19,Electrónica,Smartwatch,Buenos Aires,Online,2,393000,786000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002611,2026-08-23,Electrónica,Smart TV,Buenos Aires,Online,3,261000,783000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002304,2026-07-16,Electrónica,Smart TV,Buenos Aires,Online,2,390000,780000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001195,2026-02-24,Electrónica,Auriculares,Buenos Aires,Online,3,259500,778500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001242,2026-03-02,Deportes,Bicicleta,Mendoza,Tienda,3,259500,778500,Atípico superior,Atípico superior,-255625.0,694375.0
+P002024,2026-06-12,Electrónica,Tablet,Buenos Aires,Online,2,388000,776000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000879,2026-01-10,Electrónica,Auriculares,Buenos Aires,Tienda,3,256500,769500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002604,2026-08-22,Electrónica,Tablet,Neuquén,Tienda,2,384000,768000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000877,2026-01-10,Electrónica,Auriculares,Buenos Aires,Online,3,255500,766500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000007,2025-10-02,Electrónica,Tablet,Buenos Aires,Tienda,3,255000,765000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002720,2026-09-03,Deportes,Bicicleta,Santa Fe,Tienda,3,254000,762000,Atípico superior,Atípico superior,-255625.0,694375.0
+P002346,2026-07-22,Electrónica,Auriculares,Buenos Aires,Online,3,254000,762000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002460,2026-08-06,Electrónica,Smart TV,Buenos Aires,Tienda,2,380500,761000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001585,2026-04-17,Electrónica,Smartwatch,Neuquén,Tienda,2,380500,761000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001674,2026-04-29,Electrónica,Tablet,Córdoba,Tienda,3,252500,757500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000264,2025-11-07,Electrónica,Parlante Bluetooth,Buenos Aires,Tienda,2,376500,753000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002254,2026-07-11,Electrónica,Parlante Bluetooth,Buenos Aires,Online,2,376000,752000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001263,2026-03-06,Electrónica,Tablet,Buenos Aires,Tienda,2,374000,748000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002025,2026-06-12,Electrónica,Tablet,Mendoza,Tienda,2,374000,748000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000178,2025-10-28,Electrónica,Smartwatch,Buenos Aires,Online,3,249000,747000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000986,2026-01-24,Deportes,Pesas,Córdoba,Tienda,3,249000,747000,Atípico superior,Atípico superior,-255625.0,694375.0
+P001592,2026-04-18,Electrónica,Tablet,Santa Fe,Tienda,2,372500,745000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002245,2026-07-10,Electrónica,Parlante Bluetooth,Córdoba,Online,3,244500,733500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002333,2026-07-20,Deportes,Indumentaria deportiva,Santa Fe,Tienda,3,243500,730500,Atípico superior,Atípico superior,-255625.0,694375.0
+P002436,2026-08-02,Deportes,Pesas,Mendoza,Tienda,3,243000,729000,Atípico superior,Atípico superior,-255625.0,694375.0
+P000942,2026-01-19,Electrónica,Parlante Bluetooth,Salta,Online,2,364000,728000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002371,2026-07-25,Electrónica,Tablet,Mendoza,Tienda,3,241000,723000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002855,2026-09-18,Electrónica,Tablet,Córdoba,Online,2,361000,722000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000292,2025-11-09,Deportes,Pesas,Buenos Aires,Tienda,3,240500,721500,Atípico superior,Atípico superior,-255625.0,694375.0
+P000079,2025-10-12,Electrónica,Parlante Bluetooth,Santa Fe,Tienda,3,240000,720000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002775,2026-09-09,Deportes,Mochila,Neuquén,Online,3,240000,720000,Atípico superior,Atípico superior,-255625.0,694375.0
+P002370,2026-07-25,Electrónica,Smartwatch,Entre Ríos,Online,3,239500,718500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000617,2025-12-12,Electrónica,Smartwatch,Buenos Aires,Tienda,3,238000,714000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001724,2026-05-06,Electrónica,Smart TV,Salta,Online,2,357000,714000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001822,2026-05-18,Electrónica,Auriculares,Neuquén,Tienda,2,356500,713000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002303,2026-07-16,Electrónica,Parlante Bluetooth,Entre Ríos,Tienda,2,353500,707000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001598,2026-04-19,Electrónica,Smart TV,Buenos Aires,Tienda,3,235500,706500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000304,2025-11-11,Electrónica,Parlante Bluetooth,Buenos Aires,Online,2,352500,705000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001187,2026-02-22,Deportes,Pelota,Buenos Aires,Tienda,3,235000,705000,Atípico superior,Atípico superior,-255625.0,694375.0
+P001071,2026-02-07,Electrónica,Parlante Bluetooth,Buenos Aires,Tienda,2,352500,705000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000275,2025-11-08,Electrónica,Tablet,Mendoza,Online,2,352000,704000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001496,2026-04-06,Electrónica,Parlante Bluetooth,Salta,Online,3,234500,703500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000283,2025-11-09,Electrónica,Smart TV,Santa Fe,Tienda,3,234500,703500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002112,2026-06-24,Electrónica,Tablet,Santa Fe,Tienda,2,351500,703000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002430,2026-08-02,Electrónica,Tablet,Buenos Aires,Tienda,2,351000,702000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001048,2026-02-03,Deportes,Mochila,Santa Fe,Online,3,234000,702000,Atípico superior,Atípico superior,-255625.0,694375.0
+P002357,2026-07-23,Electrónica,Tablet,Buenos Aires,Tienda,3,233500,700500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002704,2026-09-02,Electrónica,Smart TV,Buenos Aires,Online,2,349500,699000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002736,2026-09-05,Electrónica,Smartwatch,Buenos Aires,Tienda,2,349000,698000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002532,2026-08-14,Electrónica,Smart TV,Mendoza,Tienda,2,349000,698000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001477,2026-04-04,Electrónica,Smartwatch,Santa Fe,Online,3,231500,694500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002293,2026-07-15,Electrónica,Smart TV,Santa Fe,Online,2,347000,694000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000323,2025-11-13,Electrónica,Auriculares,Santa Fe,Tienda,2,345500,691000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001677,2026-04-30,Electrónica,Smart TV,Mendoza,Tienda,2,345000,690000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000677,2025-12-18,Electrónica,Smartwatch,Buenos Aires,Online,3,229000,687000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002504,2026-08-11,Electrónica,Tablet,Mendoza,Online,2,341500,683000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001670,2026-04-28,Deportes,Bicicleta,Buenos Aires,Online,3,227500,682500,Atípico superior,Dentro del rango IQR,-255625.0,694375.0
+P002765,2026-09-09,Electrónica,Smart TV,Córdoba,Tienda,2,341000,682000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002402,2026-07-29,Electrónica,Smart TV,Buenos Aires,Online,2,341000,682000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000303,2025-11-11,Electrónica,Tablet,Mendoza,Online,2,338500,677000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001280,2026-03-09,Electrónica,Smartwatch,Buenos Aires,Tienda,2,338500,677000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001900,2026-05-29,Electrónica,Tablet,Buenos Aires,Online,2,338000,676000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002664,2026-08-29,Electrónica,Auriculares,Córdoba,Online,2,337000,674000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002595,2026-08-21,Electrónica,Smart TV,Córdoba,Online,2,334000,668000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002495,2026-08-10,Electrónica,Auriculares,Santa Fe,Tienda,3,222000,666000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000455,2025-11-25,Deportes,Mochila,Buenos Aires,Online,3,221500,664500,Atípico superior,Dentro del rango IQR,-255625.0,694375.0
+P000707,2025-12-21,Electrónica,Parlante Bluetooth,Salta,Online,2,332000,664000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000556,2025-12-06,Electrónica,Tablet,Buenos Aires,Tienda,2,331000,662000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002574,2026-08-19,Electrónica,Smartwatch,Salta,Online,3,220500,661500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001907,2026-05-30,Electrónica,Smart TV,Entre Ríos,Tienda,2,330500,661000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000914,2026-01-15,Electrónica,Tablet,Córdoba,Online,3,219500,658500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000020,2025-10-04,Electrónica,Tablet,Neuquén,Tienda,2,327500,655000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000825,2026-01-03,Electrónica,Auriculares,Buenos Aires,Online,2,326000,652000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002386,2026-07-27,Electrónica,Smartwatch,Santa Fe,Tienda,3,217000,651000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001354,2026-03-20,Electrónica,Smartwatch,Mendoza,Tienda,3,217000,651000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000605,2025-12-10,Deportes,Mochila,Mendoza,Tienda,3,217000,651000,Atípico superior,Dentro del rango IQR,-255625.0,694375.0
+P001990,2026-06-08,Electrónica,Tablet,Buenos Aires,Tienda,3,216000,648000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000491,2025-11-29,Deportes,Pelota,Santa Fe,Tienda,3,214500,643500,Atípico superior,Dentro del rango IQR,-255625.0,694375.0
+P002188,2026-07-04,Electrónica,Smart TV,Buenos Aires,Online,2,321000,642000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000503,2025-12-01,Electrónica,Parlante Bluetooth,Buenos Aires,Tienda,3,213500,640500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000404,2025-11-20,Electrónica,Smartwatch,Santa Fe,Online,2,319500,639000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001628,2026-04-23,Electrónica,Smart TV,Tucumán,Tienda,2,319500,639000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000980,2026-01-24,Electrónica,Parlante Bluetooth,Tucumán,Online,2,319000,638000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002489,2026-08-09,Electrónica,Parlante Bluetooth,Santa Fe,Online,2,319000,638000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002630,2026-08-25,Electrónica,Smart TV,Santa Fe,Tienda,2,317500,635000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001489,2026-04-05,Electrónica,Tablet,Santa Fe,Tienda,3,211500,634500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001790,2026-05-14,Electrónica,Parlante Bluetooth,Tucumán,Online,2,315000,630000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002478,2026-08-08,Electrónica,Parlante Bluetooth,Entre Ríos,Tienda,2,312500,625000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000935,2026-01-18,Electrónica,Smart TV,Santa Fe,Online,2,311500,623000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002496,2026-08-10,Electrónica,Auriculares,Buenos Aires,Tienda,3,207000,621000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000915,2026-01-15,Electrónica,Auriculares,Buenos Aires,Online,2,310500,621000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002845,2026-09-17,Electrónica,Smart TV,Córdoba,Online,2,309500,619000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002164,2026-07-01,Electrónica,Smart TV,Tucumán,Online,2,309500,619000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001151,2026-02-18,Electrónica,Smart TV,Mendoza,Online,2,308500,617000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000221,2025-11-03,Electrónica,Auriculares,Salta,Online,2,307500,615000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001325,2026-03-16,Electrónica,Smart TV,Salta,Tienda,2,307500,615000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000710,2025-12-21,Electrónica,Tablet,Santa Fe,Online,2,307000,614000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000085,2025-10-12,Deportes,Pelota,Buenos Aires,Online,3,204500,613500,Atípico superior,Dentro del rango IQR,-255625.0,694375.0
+P002693,2026-09-01,Electrónica,Tablet,Córdoba,Online,3,204000,612000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001653,2026-04-26,Electrónica,Parlante Bluetooth,Córdoba,Online,2,305000,610000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001487,2026-04-05,Electrónica,Smart TV,Buenos Aires,Tienda,2,303000,606000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002479,2026-08-08,Electrónica,Smartwatch,Buenos Aires,Tienda,2,302500,605000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000427,2025-11-23,Electrónica,Smart TV,Buenos Aires,Tienda,3,201500,604500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002575,2026-08-19,Electrónica,Smartwatch,Buenos Aires,Tienda,3,201000,603000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002874,2026-09-20,Electrónica,Auriculares,Tucumán,Tienda,2,299500,599000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000718,2025-12-22,Electrónica,Smartwatch,Santa Fe,Online,3,199500,598500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000024,2025-10-04,Deportes,Indumentaria deportiva,Buenos Aires,Online,3,198000,594000,Atípico superior,Dentro del rango IQR,-255625.0,694375.0
+P002663,2026-08-29,Electrónica,Auriculares,Buenos Aires,Online,3,197500,592500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002438,2026-08-03,Electrónica,Parlante Bluetooth,Buenos Aires,Tienda,3,197000,591000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001877,2026-05-26,Electrónica,Tablet,Buenos Aires,Online,2,294500,589000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000532,2025-12-04,Electrónica,Tablet,Córdoba,Online,2,294000,588000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000598,2025-12-10,Electrónica,Parlante Bluetooth,Buenos Aires,Tienda,2,293000,586000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001960,2026-06-04,Electrónica,Parlante Bluetooth,Buenos Aires,Tienda,3,194500,583500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001605,2026-04-19,Deportes,Pelota,Córdoba,Tienda,3,194000,582000,Atípico superior,Dentro del rango IQR,-255625.0,694375.0
+P002923,2026-09-27,Electrónica,Smartwatch,Córdoba,Online,2,289500,579000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000375,2025-11-17,Deportes,Pesas,Córdoba,Tienda,3,192500,577500,Atípico superior,Dentro del rango IQR,-255625.0,694375.0
+P002714,2026-09-03,Electrónica,Smartwatch,Mendoza,Tienda,2,288000,576000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001332,2026-03-17,Electrónica,Parlante Bluetooth,Neuquén,Online,2,285000,570000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P001684,2026-05-01,Electrónica,Tablet,Buenos Aires,Tienda,2,285000,570000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002121,2026-06-25,Electrónica,Parlante Bluetooth,Buenos Aires,Tienda,2,282000,564000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002939,2026-09-29,Electrónica,Smartwatch,Santa Fe,Tienda,2,280500,561000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000969,2026-01-22,Deportes,Indumentaria deportiva,Buenos Aires,Online,3,185500,556500,Atípico superior,Dentro del rango IQR,-255625.0,694375.0
+P002087,2026-06-21,Electrónica,Parlante Bluetooth,Buenos Aires,Online,2,278000,556000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000120,2025-10-18,Electrónica,Parlante Bluetooth,Neuquén,Online,2,277500,555000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P000289,2025-11-09,Deportes,Pesas,Mendoza,Online,3,185000,555000,Atípico superior,Dentro del rango IQR,-255625.0,694375.0
+P000392,2025-11-19,Electrónica,Parlante Bluetooth,Santa Fe,Online,3,184500,553500,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
+P002086,2026-06-20,Deportes,Bicicleta,Tucumán,Online,3,184000,552000,Atípico superior,Dentro del rango IQR,-255625.0,694375.0
+P001831,2026-05-19,Electrónica,Auriculares,Neuquén,Online,2,276000,552000,Atípico superior,Dentro del rango IQR,-304750.0,981250.0
