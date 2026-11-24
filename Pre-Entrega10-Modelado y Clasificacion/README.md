@@ -33,11 +33,13 @@ El objetivo es detectar clientes de telecomunicaciones con riesgo de abandonar e
 
 | Criterio | Dónde verificarlo |
 |---|---|
-| 1. Notebook ejecutable y división 80/20 | **División y entrenamiento** en [modelado_metricas.ipynb](modelado_metricas.ipynb). La salida muestra 5.634 clientes de entrenamiento y 1.409 de prueba, junto con el porcentaje de churn en cada conjunto. |
+| 1. Notebook ejecutable y división 80/20 | **División de datos 80/20** en [modelado_metricas.ipynb](modelado_metricas.ipynb). La salida muestra las dimensiones de `X_train` (5.634 × 19), `X_test` (1.409 × 19), `y_train` (5.634) e `y_test` (1.409), junto con el porcentaje del total y la tasa de churn. La sección **Entrenamiento del modelo** confirma el ajuste de la regresión logística y las 1.409 predicciones de prueba. |
 | 2. Cuatro métricas sobre test | **Métricas de prueba** en el notebook y tabla de resultados de este README. |
-| 3. Matriz de confusión visible | Tabla con clases reales en filas y predicciones en columnas, en el notebook y debajo de las métricas de este README. |
+| 3. Matriz de confusión visible | Gráfico de `ConfusionMatrixDisplay` guardado en la sección **Matriz de confusión** del notebook. La tabla de este README reproduce sus valores. |
 | 4. README e instrucciones | Descripción al inicio y comandos en **Cómo ejecutar el notebook**. El repositorio incluye el CSV, las dependencias y el [.gitignore de Python](.gitignore). |
 | 5. Conclusión de negocio | Celda Markdown **Interpretación de negocio** al final del notebook. Justifica por qué priorizar recall y explica el costo de los falsos negativos. |
+
+Las salidas de las celdas y el gráfico quedan guardados en el notebook para la revisión en GitHub.
 
 ## Resultados sobre el conjunto de prueba
 
